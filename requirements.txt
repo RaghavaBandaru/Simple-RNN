@@ -1,0 +1,9 @@
+tensorflow==2.16.1        # Compatible with Python 3.11
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+# keras is bundled with TensorFlow ≥ 2.6
+scikeras
